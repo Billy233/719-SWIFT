@@ -1,0 +1,2 @@
+../Control/Src/Motor.cpp:14:6:void setMotorSpeed(uint32_t, uint32_t, uint32_t, uint32_t)	1
+../Control/Src/Motor.cpp:22:6:void motorInit()	1

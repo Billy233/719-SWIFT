@@ -1,0 +1,5 @@
+../Control/Src/Ring.cpp:30:6:static void Ring::rings_Init()	1
+../Control/Src/Ring.cpp:135:16:static PIDController& Ring::getPIDController(Loop, Type, Axis)	1
+D:/Embedded/MAV/CubeIDE/Control/Inc/Ring.hpp:20:46:PIDArray<PIDArray<PIDController, 3>, 2>& PIDArray<T, N>::operator[](Loop) [with T = PIDArray<PIDArray<PIDController, 3>, 2>; unsigned int N = 3]	1
+D:/Embedded/MAV/CubeIDE/Control/Inc/Ring.hpp:24:33:PIDArray<PIDController, 3>& PIDArray<T, N>::operator[](Type) [with T = PIDArray<PIDController, 3>; unsigned int N = 2]	1
+D:/Embedded/MAV/CubeIDE/Control/Inc/Ring.hpp:28:20:PIDController& PIDArray<T, N>::operator[](Axis) [with T = PIDController; unsigned int N = 3]	1
